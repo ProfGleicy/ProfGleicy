@@ -6,5 +6,5 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on teacher
---> ![](https://www.geneseo.edu/~heap/graphics/teaching.gif)
+--> ![](link)https://www.geneseo.edu/~heap/graphics/teaching.gif
 
